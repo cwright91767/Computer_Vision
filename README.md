@@ -22,7 +22,8 @@ Video:  https://vimeo.com/309787994
 -----
 
 ### Augmented Reality
-Description: This shows a "natural scene" (which happens to be a wall in my living room, decorated with images) that contains a defined blank area in which an "advertisement" will be inserted. This was my final project for CS6476: Introduction to Computer Vision at Georgia Tech's OMSCS program.
+Description: This shows a "natural scene" (which happens to be a wall in my living room, decorated with images) that contains a defined blank area in which an "advertisement" will be inserted.
+This was my final project for CS6476: Introduction to Computer Vision at Georgia Tech's OMSCS program.
 
 Methodology 1: Hough Lines & Harris Corners
 Methodology 2: OpenCV Contours --> this produced MUCH BETTER results
