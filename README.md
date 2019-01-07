@@ -28,7 +28,7 @@ This was my final project for CS6476: Introduction to Computer Vision at Georgia
 
 Methodologies:
 1. Hough Lines & Harris Corners
-2. OpenCV Contours --> this produced MUCH BETTER results
+2. OpenCV Contours --> **this produced MUCH BETTER results**
 
 Tools used:
 * Python 2.7.13
