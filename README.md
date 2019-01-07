@@ -11,7 +11,9 @@ Description: The video below employs the native tools of OpenCV to identify a hu
 
 Methodology: Fast face detection using deep learning, Caffe, and the Single Shot Detector framework.
 
-Tools used: Python 3.7.1
+Tools used:
+⋅⋅* Unordered sub-list.
+Python 3.7.1
             OpenCV 3.4.3
             PyCharm 2018.2
 
