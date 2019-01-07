@@ -12,9 +12,9 @@ Description: The video below employs the native tools of OpenCV to identify a hu
 Methodology: Fast face detection using deep learning, Caffe, and the Single Shot Detector framework.
 
 Tools used:
-*Python 3.7.1
-*OpenCV 3.4.3
-*PyCharm 2018.2
+* Python 3.7.1
+* OpenCV 3.4.3
+* PyCharm 2018.2
 
 [Python Code](https://github.com/cwright91767/Computer_Vision/blob/master/face_detector_video.py)
 
@@ -29,9 +29,10 @@ This was my final project for CS6476: Introduction to Computer Vision at Georgia
 Methodology 1: Hough Lines & Harris Corners
 Methodology 2: OpenCV Contours --> this produced MUCH BETTER results
 
-Tools used: Python 2.7.13
-            OpenCV 2.4.13
-            Numpy 1.13.1
+Tools used:
+* Python 2.7.13
+* OpenCV 2.4.13
+* Numpy 1.13.1
 
 Code: This was my final project at Georgia Tech, therefore code is not included here.
 
