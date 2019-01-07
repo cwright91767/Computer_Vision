@@ -13,7 +13,7 @@ Tools used: Python 3.7.1
             OpenCV 3.4.3
             PyCharm 2018.2
 
-Code:
+[Python Code](https://github.com/cwright91767/Computer_Vision/blob/master/face_detector_video.py)
 
 Video:  https://vimeo.com/309787994
 
